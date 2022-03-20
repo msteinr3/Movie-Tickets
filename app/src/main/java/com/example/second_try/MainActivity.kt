@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         avengersBtn.setOnClickListener {
-            whichMovie.text = "Avangers"
+            whichMovie.text = "Avengers"
             movieName = "Avengers"
             movieSummary.text =
                 "Captain America, the Stark Enterprises created super soldier. Thor, the god of thunder, protector of Earth and his home planet of Asgard, and Loki's brother. Master assassins Hawkeye and Natasha Romanoff. Together they will become a team to take on an attack that will call them to become the greatest of all time."
