@@ -5,16 +5,10 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Movie Tickets"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Second_Try">
-        <activity
-            android:name=".Maya"
-            android:exported="false" />
-        <activity
-            android:name=".Practice"
-            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
